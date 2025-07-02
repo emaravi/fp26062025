@@ -1,0 +1,7 @@
+Ejercicios:
+
+1. Hacer un programa que permita restar dos numeros enteros.
+2. Hacer un programa que muestre el resultado de un numero al cuadrado y al cubo
+3. Hacer un programa que permita hallar la potencia de un numero segun su base y el exponente.
+4. Hacer un programa que calcule el promedio de notas de 3 alumnos.
+

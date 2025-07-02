@@ -1,0 +1,18 @@
+Invitar a salir a esa persona especial.
+
+ inicio
+
+ invitar a salir por telefono
+    dice que si
+        me arreglo  y reparar el floro
+ 	hay presupuesto para un regalo?
+   		si.  compro un regalo
+    		no.  preparo una cartita o algo sencillo
+ 	hay presupuesto para invitar a comer?
+    		si.  hacer una reserva para comer
+    		no.  comprar caramandunga y su gaseosa de a 1 sol
+        ir a recoger a la persona
+    dice que no 
+          proponer algo divertido o conversar 
+ 
+ fin
