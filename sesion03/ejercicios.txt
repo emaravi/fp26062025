@@ -1,0 +1,11 @@
+Sesion 03  - estructuras condicionales
+
+Ejercicios:
+1. Hacer un programa que solicite la altura y el peso de una persona, y que muestre si esta con peso ideal.  
+
+2. Hacer un programa que me muestre el precio de equipo movil dependiendo de la marca:  Motorolla=1200, Honor = 1500 , Samsung = 1600
+
+3. Hacer un programa que permita mostrar el sueldo de un empleado tomando en cuenta su categoria:
+   gerente = 10000, ingeniero = 9000,  administrador = 60000,  el sueldo neto es tomando en cuenta el     descuento de 15% poer seguros.  
+
+4. Hacer un programa que ingrese un numero y verifique si es par o no es par.
